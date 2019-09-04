@@ -1,0 +1,10 @@
+{
+  "webpackServerPort": 19006,
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 5892,
+  "expoServerNgrokUrl": "https://qy-mj9.anonymous.campo.exp.direct",
+  "packagerNgrokUrl": "https://packager.qy-mj9.anonymous.campo.exp.direct",
+  "ngrokPid": 908
+}
